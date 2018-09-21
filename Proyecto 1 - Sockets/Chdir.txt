@@ -1,0 +1,2 @@
+import os
+os.chdir('C:\\Users\\jeanc\\Google Drive\\Principios de Comunicaciones\\Tarea 1 - Sockets')
